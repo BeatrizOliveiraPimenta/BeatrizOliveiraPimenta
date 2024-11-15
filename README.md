@@ -3,17 +3,16 @@
 * Currently focusing on strengthening my skills in data analysis and processing  
 * Brazilian  
 * ⚡Fun fact: I enjoy sewing and exploring new hobbies  
-<br><br>
+
 <br><br>
 ## 👩‍💻Languages e Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
 
 <br><br>
-<br><br>
 ## 📖I'm learning:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <i class="devicon-java-plain" width="40" height="40"></i>
 
-<br><br>
+
  <br><br>
  ## 📫Reach me:
  <div>
@@ -23,7 +22,7 @@ target="_blank"></a>
   <a href="https://www.instagram.com/biapimenta29/profilecard/?igsh=MXdyZHN4bno3Z2Mybg==" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<br><br>
+
 <br><br>
 ## 🧮Statistics:
 <div>

@@ -1,9 +1,8 @@
 # ✨ Hi there, I'm Beatriz! ✨
-
 * Student of Systems Analysis and Development at Unip  
 * Currently focusing on strengthening my skills in data analysis and processing  
 * Brazilian  
-* Fun fact: I enjoy sewing and exploring new hobbies  
+* ⚡Fun fact: I enjoy sewing and exploring new hobbies  
 
 
 

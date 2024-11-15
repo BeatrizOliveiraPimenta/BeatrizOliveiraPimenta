@@ -1,17 +1,23 @@
-# Olá, bem-vindo ao meu perfil do GitHub😁
-## Meu nome é Beatriz!
+# ✨ Hi there, I'm Beatriz! ✨
 
-## 👩‍💻Ferramentas e Tecnologias:
+## * Student of Systems Analysis and Development at Unip  
+* Currently focusing on strengthening my skills in data analysis and processing  
+* Brazilian  
+* Fun fact: I enjoy sewing and exploring new hobbies  
+
+
+
+## 👩‍💻Languages e Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
 
 
 
-## 📖Estou aprendendo:
+## 📖I'm learning:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <i class="devicon-java-plain" width="40" height="40"></i>
 
 
  
- ## 📞Contatos:
+ ## 📫Reach me:
  <div>
   <a href = "bpimenta1204@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatrizovpimenta/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
@@ -21,7 +27,7 @@ target="_blank"></a>
 
 
 
-## 🧮Estatísticas
+## 🧮Statistics:
 <div>
 <a href="https://github.com/BeatrizOliveiraPimenta">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizOliveiraPimenta&layout=compact&langs_count=7&theme=dracula"/>

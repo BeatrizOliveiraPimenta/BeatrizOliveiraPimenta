@@ -10,7 +10,7 @@
 
 <br><br>
 ## 📖I'm learning:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/><img src="https://img.icons8.com/office/40/microsoft-power-apps.png" width="40" height="40" alt="Power Apps"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40"/><img src="https://img.icons8.com/office/40/microsoft-power-apps.png" width="40"/>
 
  <br><br>
  ## 📫Reach me:

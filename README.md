@@ -6,7 +6,7 @@
 
 <br><br>
 ## 👩‍💻Languages e Tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40"/><img src="https://img.icons8.com/fluency/48/power-bi-2021.png" width="40"/><img src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40"/><img src="https://img.icons8.com/fluency/48/power-bi-2021.png" width="40"/><img src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" width="40"/>
 
 <br><br>
 ## 📖I'm learning:

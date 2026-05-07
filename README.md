@@ -6,21 +6,11 @@
 
 <br><br>
 ## 👩‍💻Languages e Tools:
-<div>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40" alt="SQL Developer"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40" alt="SQL Server"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img loading="lazy" src="https://img.icons8.com/fluency/48/power-bi-2021.png" width="40" height="40" alt="Power BI"/>
-  <img loading="lazy" src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" width="40" height="40" alt="Power Automate"/>
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40"/><img src="https://img.icons8.com/fluency/48/power-bi-2021.png" width="40"/><img src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" width="40"/><img src="https://img.icons8.com/office/40/microsoft-power-apps.png" width="40"/>
 
 <br><br>
 ## 📖I'm learning:
- <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"><img src="https://img.icons8.com/office/40/microsoft-power-apps.png" width="40" height="40" alt="Power Apps"/>
- <img loading="lazy" src="https://img.icons8.com/office/40/microsoft-power-apps.png" width="40" height="40" alt="Power Apps"/>
- </div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"><img src="https://img.icons8.com/office/40/microsoft-power-apps.png" width="40" height="40" alt="Power Apps"/>
 
  <br><br>
  ## 📫Reach me:
